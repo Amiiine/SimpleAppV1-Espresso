@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleAppV1.0</string>
+    <string name="login_label">Click here</string>
+    <string name="result_label">Welcome to the coolest app ever</string>
+</resources>
